@@ -1,1 +1,1 @@
-# MeryGym
+# CORE
